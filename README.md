@@ -18,6 +18,15 @@ The models are implemented in the standard Jupyter Notebooks. To execute the not
 
 ## Getting involved
 
+You may contribute to this library by adding Jupyter notebooks that teaches a machine learning topic, and contains exercises to practice. You may also choose to improve the existing notebooks. `develop` branch is where you will submit the PR to, which will then be reviewed and merged. Your changes should be submitted via a topic branch for which a meaningful name must be provided and the details of the PR should be included. The changes will be reviewed and merged to `develop` first and then to `master` branch.
+
 ## Future roadmap
 
+The short term roadmap includes, but not limited to:
+* adding notebooks containing distinct Machine learning topics
+* arranging the topics by folders with appropriate documentation
+* cleaning up unused or redundant files/folders
+
 ## License
+
+TBD
