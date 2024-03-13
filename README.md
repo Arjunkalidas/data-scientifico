@@ -31,4 +31,4 @@ The short term roadmap includes, but not limited to:
 
 ## License
 
-TBD
+This project is licensed under the terms of the [MIT License](https://dougneiner.mit-license.org)
