@@ -4,6 +4,7 @@ This is intended as a journal to update my data science journey
 
 ## Introduction
 
+This is a github project to capture the data science journey, machine learning studies, and artificial intelligence.
 
 ## Machine Learning Algorithms
 
@@ -26,7 +27,8 @@ The short term roadmap includes, but not limited to:
 * adding notebooks containing distinct Machine learning topics
 * arranging the topics by folders with appropriate documentation
 * cleaning up unused or redundant files/folders
+* new datasets and analysis for the same
 
 ## License
 
-TBD
+This project is licensed under the terms of the [MIT License](https://dougneiner.mit-license.org)
