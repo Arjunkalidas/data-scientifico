@@ -1,10 +1,17 @@
 # data-scientifico
 
-This is intended as a journal to update my data science journey
+This project started out of my curiosity for learning machine learning, statistics and artificial intelligence and its many possibilities. My intention is to maintain this repository as a journal to update my data science journey.
 
 ## Introduction
 
-This is a github project to capture the data science journey, machine learning studies, and artificial intelligence.
+### Machine Learning (ML):
+Machine learning is a subfield of artificial intelligence (AI) that focuses on developing algorithms and techniques that enable computers to learn from data and make predictions or decisions without being explicitly programmed to do so. ML algorithms can identify patterns, learn from past experiences, and improve their performance over time. Common tasks in machine learning include classification, regression, clustering, and reinforcement learning.
+
+### Statistics:
+Statistics is a branch of mathematics that deals with collecting, analyzing, interpreting, and presenting data. It provides methods and techniques for summarizing data, making inferences or predictions based on data, and evaluating the reliability of these conclusions. Statistical concepts such as probability, hypothesis testing, regression analysis, and sampling are widely used in various fields, including machine learning and artificial intelligence, to draw meaningful insights from data.
+
+### Artificial Intelligence (AI):
+Artificial intelligence is a broad field of computer science that focuses on creating intelligent machines capable of simulating human-like intelligence and behavior. AI encompasses a wide range of techniques, including machine learning, natural language processing, computer vision, robotics, and expert systems. The goal of AI is to develop systems that can perceive, reason, learn, and adapt to new situations, ultimately enabling them to perform tasks that typically require human intelligence.
 
 ## Machine Learning Algorithms
 
