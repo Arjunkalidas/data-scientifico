@@ -16,9 +16,15 @@ Artificial intelligence is a broad field of computer science that focuses on cre
 ## Machine Learning Algorithms
 
 This repository is for data science learning, and implementations of various ML algorithms, such as:
-- Linear regression
-- Clustering
-- KMeans Clustering
+
+#### Linear Regression:
+Linear regression is a supervised learning algorithm used for predicting the value of a continuous target variable based on one or more input features. It assumes a linear relationship between the input features and the target variable, represented by a straight line in two dimensions or a hyperplane in higher dimensions. The algorithm aims to find the best-fitting line or plane that minimizes the difference between the actual and predicted values. Linear regression is widely used for tasks such as predicting house prices, stock prices, or sales forecasts.
+
+#### Clustering:
+Clustering is an unsupervised learning algorithm used to group similar data points together based on their intrinsic characteristics or properties. The goal is to partition the data into distinct groups or clusters, where data points within the same cluster are more similar to each other than to those in other clusters. Clustering algorithms do not require labeled data and operate solely on the input features. Clustering is commonly used for tasks such as customer segmentation, image segmentation, and anomaly detection.
+
+#### KMeans Clustering:
+KMeans clustering is a popular clustering algorithm used to partition a dataset into K distinct clusters. The algorithm begins by randomly initializing K cluster centroids, then iteratively assigns each data point to the nearest centroid and updates the centroids based on the mean of the data points assigned to each cluster. This process continues until convergence, where the centroids no longer change significantly or a specified number of iterations is reached. KMeans clustering aims to minimize the within-cluster sum of squared distances, effectively grouping data points into clusters with minimal variance within each cluster. It is widely used for tasks such as customer segmentation, image compression, and document clustering.
 
 ## Usage
 
