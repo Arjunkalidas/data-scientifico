@@ -13,6 +13,9 @@ Statistics is a branch of mathematics that deals with collecting, analyzing, int
 ### Artificial Intelligence (AI):
 Artificial intelligence is a broad field of computer science that focuses on creating intelligent machines capable of simulating human-like intelligence and behavior. AI encompasses a wide range of techniques, including machine learning, natural language processing, computer vision, robotics, and expert systems. The goal of AI is to develop systems that can perceive, reason, learn, and adapt to new situations, ultimately enabling them to perform tasks that typically require human intelligence.
 
+#### Neural Networks:
+Neural networks are algorithms inspired by the brain's structure, consisting of interconnected nodes organized into layers. During training, they adjust connections' weights to map input data to output predictions via backpropagation. Through this iterative process, neural networks learn complex patterns and relationships within data, making them versatile for tasks like image recognition, natural language processing, and reinforcement learning. They excel in tasks where traditional algorithms struggle with nonlinear relationships and high-dimensional data. Neural networks have become a cornerstone of modern machine learning and artificial intelligence, powering innovations across various domains, from computer vision to speech recognition and autonomous systems. Their flexibility and scalability continue to drive advancements, making them essential tools for tackling complex problems in today's data-driven world.
+
 ## Machine Learning Algorithms
 
 This repository is for data science learning, and implementations of various ML algorithms, such as:
